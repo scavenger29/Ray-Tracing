@@ -1,6 +1,6 @@
 # Ray_Tracer
 
-Implement recursive ray tracing with the following features
+Implemention of recursive ray tracing with the following features
 
 a. A scene with objects of the type: polygon (plane), and sphere. While specifying the object one needs to give the geometry and material properties. Include (affine) transformation of the above generic objects for generating interesting scenes.
 b. Local illumination model with diffuse, specular and ambient components.
